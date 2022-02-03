@@ -45,7 +45,7 @@ class _RecipeDetailsPageState extends State<RecipeDetailsPage> {
                   final ingredient = widget.recipe.ingredients[index];
 
                   return Text(
-                    "${ingredient.quantity} ${ingredient.measure} ${ingredient.name}",
+                    "${ingredient.quantity * _sliderValue} ${ingredient.measure} ${ingredient.name}",
                   );
                 },
               ),
