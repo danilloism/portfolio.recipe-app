@@ -1,16 +1,7 @@
-# portfolio_recipe_app
+# Recipe App
 
-A new Flutter project.
+Project made while studying chapter 2 of the book Flutter Apprentice (2nd Edition).
 
-## Getting Started
+## WHat it does?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is introduced in the book to teach the basics of state changing and StatefulWidget. It has some recipes and when you increase the servings number the ingredients quantity also increases. Project introduced in chapter 2 of the book Flutter Apprentice (2nd Edition).
